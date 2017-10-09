@@ -127,5 +127,6 @@ export default class MegaMenuApplicationCustomizer
   private _onDispose(): void {
     console.log('[HelloWorldApplicationCustomizer._onDispose] Disposed custom top and bottom placeholders.');
   }
+  // test
 
 }
