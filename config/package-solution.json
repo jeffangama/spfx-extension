@@ -1,0 +1,12 @@
+{
+  "$schema": "https://dev.office.com/json-schemas/spfx-build/package-solution.schema.json",
+  "solution": {
+    "name": "header-mega-menu-client-side-solution",
+    "id": "98a4a15f-3b32-4a0b-9e92-c08dc772bf61",
+    "version": "1.0.0.0",
+    "skipFeatureDeployment": true
+  },
+  "paths": {
+    "zippedPackage": "solution/header-mega-menu.sppkg"
+  }
+}
